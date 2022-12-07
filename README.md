@@ -32,3 +32,11 @@ pros: simple, radeily avaiable
 it can detect the change in connection; 
 avaiable in anroid too
 ---------------------------------------------------------------------------
+Approcah -> 
+
+check if the chrome' network apis working or not,
+
+if(chromw netwrok api is working) thn use it
+else{ use the node js network api }
+
+
